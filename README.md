@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Isabela Silva.
 
-- Atualmente, trabalho como consultora de implementação de sistemas. Entretanto, procuro migrar para a área de QA.
+Atualmente, trabalho como consultora de implementação de sistemas. Entretanto, procuro migrar para Analista de Testes/QA.
 
 <div>
 <a href="https://github.com/Isabela01vSilva">
