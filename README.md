@@ -33,7 +33,7 @@
 
 ---
 
-![Snake animation](https://github.com/isabela01vsilva/isabela01vsilva/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/isabela01vsilva/isabela01vsilva/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
