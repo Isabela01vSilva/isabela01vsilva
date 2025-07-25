@@ -2,7 +2,7 @@
 
 💻 Sou apaixonada por tecnologia e estou em busca da minha primeira oportunidade como **Desenvolvedora Java Júnior**.
 
-🚀 Tenho experiência com **Spring, API REST e Banco de Dados(MySQL)**, e estou sempre aprimorando minhas habilidades.
+🚀 Tenho experiência com **Spring, API REST e Banco de Dados(MySQL\PostreSQL)**, e estou sempre aprimorando minhas habilidades.
 
 🔍 Busco uma vaga onde eu possa contribuir, aprender e crescer profissionalmente na área de desenvolvimento.
 
