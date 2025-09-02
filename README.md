@@ -23,6 +23,8 @@
 ## 📌 Projetos em Destaque  
 - [📦 Sistema de Controle de Estoque](https://github.com/Isabela01vSilva/controle-estoque) - Um sistema para gerenciamento de produtos em estoque, com **Spring Boot e banco de dados**.  
 - [💰 Sistema com ações básicas de um banco](https://github.com/Isabela01vSilva/projeto-financas) - Um sistema com ações básicas de um banco, usando **Spring Boot e banco de dados**.  
+- [📅 Schedule](https://github.com/Isabela01vSilva/schedule) - **Microserviço** de agendamento de tarefas, desenvolvido em **Spring Boot**.  
+- [🔔 Notification (em andamento)](https://github.com/Isabela01vSilva/notification) - **Microserviço** de notificações, atualmente em desenvolvimento com **Spring Boot**.  
 
 ---
 
