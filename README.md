@@ -20,17 +20,17 @@
 ---
 
 ## 📌 Projetos em Destaque  
-- [📦 **Sistema de Controle de Estoque**](https://github.com/Isabela01vSilva/controle-estoque) — Sistema para gerenciamento de produtos em estoque, desenvolvido com **Spring Boot** e **banco de dados relacional**. *(Java)*  
-- [💰 **Sistema Bancário**](https://github.com/Isabela01vSilva/projeto-financas) — Aplicação com ações básicas de um banco, construída com **Spring Boot** e **banco de dados**. *(Java)*  
-- [📅 **Schedule**](https://github.com/Isabela01vSilva/schedule) — **Microserviço** para agendamento de tarefas, implementado em **Spring Boot**. *(Java)*  
+- [📦 **Sistema de Controle de Estoque**](https://github.com/Isabela01vSilva/ControleEstoque.git) — Sistema para gerenciamento de produtos em estoque, desenvolvido com **Spring Boot** e **banco de dados relacional**. *(Java)*  
+- [💰 **Sistema Bancário**](https://github.com/Isabela01vSilva/bank.git) — Aplicação com ações básicas de um banco, construída com **Spring Boot** e **banco de dados**. *(Java)*  
+- [📅 **Schedule**](https://github.com/Isabela01vSilva/schedule.git) — **Microserviço** para agendamento de tarefas, implementado em **Spring Boot**. *(Java)*  
 - [🏨 **Hotel Booking**](https://github.com/Isabela01vSilva/hotel-booking.git) — Aplicação **frontend** desenvolvida em **Angular**. *(TypeScript)*  
 
 ---
 
 ## 📊 GitHub Stats  
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=isabela01vsilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabela01vsilva&layout=compact&langs_count=8&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats-git-master-mirrors.vercel.app/api?username=isabela01vsilva&show_icons=true&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats-git-master-mirrors.vercel.app/api/top-langs/?username=isabela01vsilva&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
 ---
