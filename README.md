@@ -39,7 +39,7 @@
 
 - [🏨 **Hotel Booking**](https://github.com/Isabela01vSilva/hotel-booking.git) — Aplicação **frontend** desenvolvida em **Angular**, com foco em experiência do usuário, consumo de APIs e interface responsiva. *(TypeScript)*  
 
-- [📦 **Posts Manager**](https://github.com/Isabela01vSilva/posts-manager.git) — Aplicação Angular para gerenciamento de posts com operações de CRUD, integração com API e funcionalidades como paginação e busca. *(Angular / TypeScript)*  
+- [📱 **Posts Manager**](https://github.com/Isabela01vSilva/posts-manager.git) — Aplicação Angular para gerenciamento de posts com operações de CRUD, integração com API e funcionalidades como paginação e busca. *(Angular / TypeScript)*  
 
 ---
 
