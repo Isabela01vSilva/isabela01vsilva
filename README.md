@@ -54,9 +54,9 @@
 <div align="center">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Isabela01vSilva&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Isabela01vSilva&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Isabela01vSilva&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=Isabela01vSilva&theme=default&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=1800)<br/>
+![](https://streak-stats.demolab.com/?user=Isabela01vSilva&theme=default&hide_border=false&cache_seconds=1800)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Isabela01vSilva&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800)
 
 </div>
 
