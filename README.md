@@ -6,9 +6,14 @@
 
 🚀 Atuo no desenvolvimento de interfaces com foco em performance, boas práticas e experiência do usuário.
 
+ 🎓 **SPTech School** — Análise e Desenvolvimento de Sistemas 
 </div>
 
 ---
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 # 💻 Tech Stack
 
@@ -51,14 +56,28 @@
 - [📅 **Schedule**](https://github.com/Isabela01vSilva/schedule.git) — **Microserviço** para agendamento de tarefas, implementado com **Spring Boot e PostgreSQL**, seguindo arquitetura de serviços. *(Java)*  
 
 ---
-<div align="center">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Isabela01vSilva&theme=default&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=1800)<br/>
-![](https://streak-stats.demolab.com/?user=Isabela01vSilva&theme=default&hide_border=false&cache_seconds=1800)<br/>
+## 🚧 Projetos em Desenvolvimento
+
+- [🏦 **Bank Interface (Frontend Angular)**](#) — Interface frontend para o sistema bancário, integrando autenticação, dashboard e operações financeiras, consumindo API Java/Spring Boot. *(Angular / TypeScript)*  
+
+- [🌐 **Portfolio Pessoal**](#) — Projeto de portfólio focado em UI moderna, performance e experiência do usuário, com foco em apresentação profissional de projetos e carreira. *(Angular / Frontend)*  
+
+</td>
+
+<td width="40%" valign="top">
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=Isabela01vSilva&theme=default&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=1800)
+
+![](https://streak-stats.demolab.com/?user=Isabela01vSilva&theme=default&hide_border=false&cache_seconds=1800)
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Isabela01vSilva&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800)
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -72,15 +91,7 @@
 
 ---
 
-## 🚧 Projetos em Desenvolvimento
-
-- [🏦 **Bank Interface (Frontend Angular)**](#) — Interface frontend para o sistema bancário, integrando autenticação, dashboard e operações financeiras, consumindo API Java/Spring Boot. *(Angular / TypeScript)*  
-
-- [🌐 **Portfolio Pessoal**](#) — Projeto de portfólio focado em UI moderna, performance e experiência do usuário, com foco em apresentação profissional de projetos e carreira. *(Angular / Frontend)*  
-
----
-
 ## 📫 Contato  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabela01vsilva)  
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isabelavsilva4@gmail.com)  
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isabelavsilva4@gmail.com)
