@@ -1,10 +1,3 @@
-<div align="right">
-  
-  [![English](https://img.shields.io/badge/lang-en-red.svg)](README.md)
-  [![Português](https://img.shields.io/badge/lang-pt--br-green.svg)](README.pt-br.md)
-  
-</div>
-
 <div align="center">
 
 # 👋 Olá! Eu sou a Isabela Silva
