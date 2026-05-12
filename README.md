@@ -18,31 +18,31 @@
  
  ---
 
-## 📌 Projetos
+## Projetos
 
-### 🎨 Frontend
+### Frontend
 
-- [🏨 **Hotel Booking**](https://github.com/Isabela01vSilva/hotel-booking.git) — Aplicação **frontend** desenvolvida em **Angular**, com foco em experiência do usuário, consumo de APIs e interface responsiva. *(TypeScript)*  
+- [**Hotel Booking**](https://github.com/Isabela01vSilva/hotel-booking.git) — Aplicação **frontend** desenvolvida em **Angular**, com foco em experiência do usuário, consumo de APIs e interface responsiva. *(TypeScript)*  
 
-- [📱 **Posts Manager**](https://github.com/Isabela01vSilva/posts-manager.git) — Aplicação Angular para gerenciamento de posts com operações de CRUD, integração com API e funcionalidades como paginação e busca. *(Angular / TypeScript)*  
+- [**Posts Manager**](https://github.com/Isabela01vSilva/posts-manager.git) — Aplicação Angular para gerenciamento de posts com operações de CRUD, integração com API e funcionalidades como paginação e busca. *(Angular / TypeScript)*  
 
 ---
 
-### ⚙️ Backend
+### Backend
 
-- [📦 **Sistema de Controle de Estoque**](https://github.com/Isabela01vSilva/ControleEstoque.git) — Sistema para gerenciamento de produtos em estoque, desenvolvido com **Spring Boot** e banco de dados relacional, com suporte a CRUD e controle de vendas. *(Java)*  
+- [**Sistema de Controle de Estoque**](https://github.com/Isabela01vSilva/ControleEstoque.git) — Sistema para gerenciamento de produtos em estoque, desenvolvido com **Spring Boot** e banco de dados relacional, com suporte a CRUD e controle de vendas. *(Java)*  
 
-- [💰 **Sistema Bancário**](https://github.com/Isabela01vSilva/bank.git) — Aplicação com regras de negócio bancárias, gerenciamento de contas e transações, desenvolvida com **Spring Boot e MySQL**. *(Java)*  
+- [**Sistema Bancário**](https://github.com/Isabela01vSilva/bank.git) — Aplicação com regras de negócio bancárias, gerenciamento de contas e transações, desenvolvida com **Spring Boot e MySQL**. *(Java)*  
 
-- [📅 **Schedule**](https://github.com/Isabela01vSilva/schedule.git) — **Microserviço** para agendamento de tarefas, implementado com **Spring Boot e PostgreSQL**, seguindo arquitetura de serviços. *(Java)*  
+- [**Schedule**](https://github.com/Isabela01vSilva/schedule.git) — **Microserviço** para agendamento de tarefas, implementado com **Spring Boot e PostgreSQL**, seguindo arquitetura de serviços. *(Java)*  
 
 ---
 
 ## 🚧 Projetos em Desenvolvimento
 
-- [🏦 **Bank Interface (Frontend Angular)**](#) — Interface frontend para o sistema bancário, integrando autenticação, dashboard e operações financeiras, consumindo API Java/Spring Boot. *(Angular / TypeScript)*  
+[Bank Interface](https://github.com/Isabela01vSilva/bank) — Interface frontend para o sistema bancário, integrando autenticação, dashboard e operações financeiras, consumindo API Java/Spring Boot. *(Angular / TypeScript)*
 
-- [🌐 **Portfolio Pessoal**](#) — Projeto de portfólio focado em UI moderna, performance e experiência do usuário, com foco em apresentação profissional de projetos e carreira. *(Angular / Frontend)*  
+[**Portfolio Pessoal**](#) — Projeto de portfólio focado em UI moderna, performance e experiência do usuário, com foco em apresentação profissional de projetos e carreira. *(Angular / Frontend)*  
 
 </td>
 
