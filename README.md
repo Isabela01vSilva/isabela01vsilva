@@ -40,7 +40,7 @@
 
 ## 🚧 Projetos em Desenvolvimento
 
-[Bank Interface](https://github.com/Isabela01vSilva/bank) — Interface frontend para o sistema bancário, integrando autenticação, dashboard e operações financeiras, consumindo API Java/Spring Boot. *(Angular / TypeScript)*
+[Bank Interface](https://github.com/Isabela01vSilva/bank-dashboard.git) — Interface frontend para o sistema bancário, integrando autenticação, dashboard e operações financeiras, consumindo API Java/Spring Boot. *(Angular / TypeScript)*
 
 [**Portfolio Pessoal**](#) — Projeto de portfólio focado em UI moderna, performance e experiência do usuário, com foco em apresentação profissional de projetos e carreira. *(Angular / Frontend)*  
 
