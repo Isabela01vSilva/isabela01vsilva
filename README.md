@@ -10,9 +10,9 @@
 
  ## 🌸 Sobre mim
  
-💻 Desenvolvedora Frontend focada em aplicações Angular (17+) com integração de APIs REST e construção de interfaces modernas e escaláveis.
+💻 Desenvolvedora FullStack focada em aplicações Java (+21) e Angular (17+) com integração de APIs REST e construção de interfaces modernas e escaláveis.
 
-🚀 Atuo no desenvolvimento de interfaces com foco em performance, boas práticas e experiência do usuário.
+🚀 Atualmente atuo no desenvolvimento de interfaces com foco em performance, boas práticas e experiência do usuário.
 
 🎓 **SPTech School** — Análise e Desenvolvimento de Sistemas 
  
@@ -52,12 +52,10 @@
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 [![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring)](https://spring.io/)
