@@ -85,7 +85,7 @@
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=isabela01vsilva&theme=tokyo-night)
+[![Activity Graph](https://github-readme-activity-graphkayan.vercel.app/graph?username=isabela01vsilva&bg_color=1a1b27&color=a9b1d6&line=7aa2f7&point=bb9af7&area_color=1a1b27&area=true&hide_border=true)](https://github.com/isabela01vsilva)
 
 </div>
 
